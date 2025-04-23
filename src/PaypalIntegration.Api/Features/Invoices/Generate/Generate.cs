@@ -1,4 +1,4 @@
-namespace PaypalIntegration.Api.Generate;
+namespace PaypalIntegration.Api.Features.Invoices.Generate;
 
 public class Generate
 {
